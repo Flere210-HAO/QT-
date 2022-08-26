@@ -1,0 +1,14 @@
+debug/addperson.o
+debug/changed.o
+debug/main.o
+debug/mainwidget.o
+debug/menu.o
+debug/personinfo.o
+debug/selectperson.o
+debug/showandsort.o
+debug/moc_addperson.o
+debug/moc_changed.o
+debug/moc_mainwidget.o
+debug/moc_menu.o
+debug/moc_selectperson.o
+debug/moc_showandsort.o

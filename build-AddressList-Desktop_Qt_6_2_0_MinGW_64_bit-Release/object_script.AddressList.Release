@@ -1,0 +1,14 @@
+release/addperson.o
+release/changed.o
+release/main.o
+release/mainwidget.o
+release/menu.o
+release/personinfo.o
+release/selectperson.o
+release/showandsort.o
+release/moc_addperson.o
+release/moc_changed.o
+release/moc_mainwidget.o
+release/moc_menu.o
+release/moc_selectperson.o
+release/moc_showandsort.o
